@@ -1,3 +1,4 @@
+// Rakha Adrian Nur Tanaya SMK TELKOM MALANG
 //deklarasi pin
 const int trigPin = 9;
 const int echoPin = 10;
